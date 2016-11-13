@@ -1,0 +1,21 @@
+.header{
+	width:100%;
+	height:60px;
+}
+.header input{
+	height:100%;
+	width:50%;
+	outline: none;
+	text-align: center;
+	font-size:18px;
+	line-height:60px;
+	display: block;
+	float: left;
+	background:#204D74;
+	color:white;
+}
+.content{
+	 width:100%;
+	 height:600px;
+	 background:#1B6D85;
+}
